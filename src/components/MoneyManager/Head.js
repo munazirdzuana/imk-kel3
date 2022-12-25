@@ -1,4 +1,4 @@
-/* eslint-disable jsx-a11y/control-has-associated-label */
+/* eslint-disable */
 import React, { useState } from 'react';
 
 const Head = () => {
