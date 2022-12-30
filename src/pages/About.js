@@ -6,8 +6,6 @@ const About = (props) => {
   return (
     <div className='container'>
       hello from about page
-      <p>This project is [MIT]</p>
-      <a href="https://github.com/Mujeeb4582/Math_Megicians/blob/React-Setup/Licence">licensed</a>
       <br />
       <p>APLIKASI INI DIBUAT UNTUK TUGAS AKHIR IMK. 
         APLIKASI YANG DAPAT MENINGKATKAN PRODUKTIFITAS PENGGUNANYA DENGAN MENGUNAKAN BEBERAPA
